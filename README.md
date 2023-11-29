@@ -1,1 +1,3 @@
-# PHP-Jogos
+# JowJow Games
+Loja do JowJow
+
